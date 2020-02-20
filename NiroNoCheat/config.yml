@@ -1,0 +1,16 @@
+# NNC Config / Plugin by NiroYT
+Disabled: false
+Debugmode: false
+Write-Log: false
+Kick-at-Violation-Level: 200
+Violation-Messages: true
+Auto-Updater: false
+Ban-Command: ban [player] Cheating
+Checks:
+  AntiDamageIndicator: 
+    Enabled: true
+  AntiESP: 
+    Enabled: true
+    Players: true
+    Entities: false
+    Items: false

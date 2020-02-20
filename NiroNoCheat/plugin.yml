@@ -1,0 +1,8 @@
+main: de.niroyt.nnc.Main
+name: NiroNoCheat
+version: 2.2
+author: NiroYT
+
+commands:
+  nnc:
+    description: Plugin info
